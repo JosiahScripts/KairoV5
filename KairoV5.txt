@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://ghostplayer352.github.io/Authorization/"))()Ioad("be1ab24c1ef97fdb8fdac4fbcc8a3ded")
+setclipboard("https://discord.gg/vJ4EMwqzub")
+
+-- NEW VER JOIN DISCORD SERVER NOW
+-- https://discord.gg/vJ4EMwqzub
